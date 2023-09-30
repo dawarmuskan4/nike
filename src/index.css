@@ -37,11 +37,11 @@
   }
 
   .padding-l {
-    @apply sm:pl-16 pl-8;
+    @apply sm:pl-16 pl-12;
   }
 
   .padding-r {
-    @apply sm:pr-16 pr-8;
+    @apply sm:pr-16 pr-10;
   }
 
   .padding-t {
